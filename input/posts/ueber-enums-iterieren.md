@@ -1,6 +1,7 @@
 Title: Über Enum-Values iterieren
 Published: 2016-03-17
 Tags: ["CSharp"]
+Image: ../images/blog-title-1.jpg
 ---
 Hin und wieder kann es vorkommen, dass man gerne über die Werte einer Enum iterieren würde, um diese beispielsweise in 
 eine Liste mit Auswahlmöglichkeiten umzuwandeln oder die der Werte einfach auszugeben. In diesem Artikel wollen wir genau das machen. 

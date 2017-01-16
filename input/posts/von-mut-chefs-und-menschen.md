@@ -1,5 +1,6 @@
 Title: von Mut, Chefs und Menschen
 Published: 2016-05-22
+Image: ../images/blog-title-4.jpg
 ---
 In den letzten Tagen und Wochen führte ich auffällig oft Gespräche mit gut ausgebildeten Leuten, die mich ehrlich verblüfft haben. Oft genug allerdings mehr im Negativen als im Positiven. 
 

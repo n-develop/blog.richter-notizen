@@ -1,6 +1,7 @@
 Title: Kurznotiz - Fehlende Views nach Deployment auf Azure WebApp
 Published: 2016-06-04
 Tags: ["Azure", "Kurznotiz"]
+Image: ../images/blog-title-6.jpg
 ---
 Vor ein paar Tagen hatte ich das Problem, dass manche Views nicht auf meiner Azure-WebApp deployed wurden.
 Egal ob es über meinen Continuous Deployment-Prozess lief oder ich direkt über Visual Studio gepublished habe. Die Views kamen einfach nicht auf dem Server an.

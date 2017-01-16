@@ -1,5 +1,6 @@
 Title: Memo an mein jüngeres Ich
 Published: 2016-03-17
+Image: ../images/blog-title-8.jpg
 ---
 Beim Surfen durchs Web, bin ich mal wieder auf einen Blog-Artikel zum Thema "What advice would you give your younger (programmer) self?" gestoßen. 
 Das ist ja im Grunde keine neue Idee. Aber diesmal möchte auch ich meinen Senf dazu abgeben. Denn wenn man so einige Jahre zurück blickt, 

@@ -1,6 +1,7 @@
 Title: xUnit, NUnit und MSTest im Vergleich
 Published: 2016-03-17
 Tags: ["xUnit", "NUnit", "MSTest", "TDD", "Unit-Testing"]
+Image: ../images/blog-title-13.jpg
 ---
 
 Das Internet ist voll von Vergleichen der beliebtesten Test-Frameworks. Warum genau muss ich hier dann auch so 

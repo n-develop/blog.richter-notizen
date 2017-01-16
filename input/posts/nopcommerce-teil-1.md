@@ -1,6 +1,7 @@
 Title: nopCommerce - Open Source E-Commerce mit .NET
 Published: 2016-03-17
 Tags: ["eCommerce", "nopCommerce", ".NET", "CSharp", "ASP.NET MVC"]
+Image: ../images/blog-title-10.jpg
 ---
 Wenn man sich nach Open Source-Lösungen für E-Commerce umschaut, findet man meistens Magento, Shopware, PrestaShop, 
 osCommerce und noch einige andere. Was haben diese Plattformen gemeinsam? Sie sind in PHP entwickelt. 

@@ -1,6 +1,7 @@
 Title: Ein einfacher Bot mit dem Microsoft Bot-Framework
 Published: 2016-09-28
 Tags: ["Bots", "MS Bot Framework", "CSharp"]
+Image: ../images/blog-title-5.jpg
 ---
 
 Ich habe mich in den letzten Tagen etwas mit dem [Microsoft BotFramework](https://dev.botframework.com/) befasst.

@@ -1,5 +1,6 @@
 Title: von Nörgelei und Untätigkeit
 Published: 2016-05-23
+Image: ../images/blog-title-5.jpg
 ---
 Und schon wieder ein nicht-technischer Blog-Artikel. Und, um genau zu sein, geht es wieder um Unverständnis meinerseits. Nur dieses Mal ist es mehr als Unverständnis. Es geht um Ärgernis. Etwas, dass mich regelmäßig sprachlos und oft auch ägerlich macht.
 

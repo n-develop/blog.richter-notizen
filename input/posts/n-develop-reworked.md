@@ -1,6 +1,7 @@
 Title: n-Develop Reworked - Komplett-Überarbeitung des Blogs
 Published: 2016-05-25
 Tags: ["ASP.NET MVC", "CSharp", "Blog"]
+Image: ../images/blog-title-9.jpg
 ---
 Es wurde mal wieder Zeit für was Neues. Wie ihr vielleicht gemerkt habt, sieht es hier mal wieder völlig anders aus.
 Nein, es handelt sich nicht um ein neues WordPress-Theme oder einen Umstieg auf Joomla oder ähnliches.

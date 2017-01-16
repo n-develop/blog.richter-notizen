@@ -1,6 +1,7 @@
 Title: Ein eigener Telegram-Bot als Notification-Service
 Published: 2016-10-04
 Tags: ["Bots", "Telegram"]
+Image: ../images/blog-title-11.jpg
 ---
 Ich nutze bereits seit einiger Zeit [Telegram](https://telegram.org/) als meinen primären Messenger.
 WhatsApp benutze ich tatsächlich nur noch für eine handvoll Freunde. Der Großteil meiner Freundeskreises und meine komplette Familie

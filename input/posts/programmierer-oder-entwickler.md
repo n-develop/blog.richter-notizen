@@ -1,6 +1,7 @@
 Title: Programmierer oder Entwickler?
 Published: 2016-06-03
 Tags: ["Selbstwahrnehmung"]
+Image: ../images/blog-title-12.jpg
 ---
 In den letzten Wochen häufen sich die nicht technischen Posts auf meinem Blog. Das ist nicht unbedingt beabsichtigt, aber ich nutze diesen Rahmen in der letzten Zeit gerne, um von Gesprächen und anderen Situationen zu berichten, die mich mehr oder weniger stark geprägt haben. Heute geht es mal wieder um eine, nennen wir es "Unterhaltung". Aber ich fange mal etwas anders an.
 

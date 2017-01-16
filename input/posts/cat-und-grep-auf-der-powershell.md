@@ -1,7 +1,7 @@
 Title: cat und grep auf der PowerShell
 Published: 2016-10-07
 Tags: ["PowerShell"]
-RedirectFrom: Post/cat-und-grep-powershell
+Image: ../images/blog-title-3.jpg
 ---
 
 Jeder, der im Enterprise-Umfeld hin und wieder Logs durchforsten darf, kennt das.

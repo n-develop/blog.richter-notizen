@@ -1,6 +1,7 @@
 Published: 2016-09-01
 Title: Code Kata - Bowling Game
 Tags: ["Code Kata", "TDD"]
+Image: ../images/blog-title-2.jpg
 ---
 Der regelmäßige Leser dieses Blogs weiß, dass ich ein großer Fan des Test-Driven Developments bin.
 Aber wie alles im Leben muss man auch TDD und andere Techniken üben. Aber wie übt man TDD am besten?
