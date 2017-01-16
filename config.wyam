@@ -1,0 +1,7 @@
+Settings.Host = "richter-notizen.de";
+GlobalMetadata["Intro"] = "Ein Blog über .NET, Sitecore und einige andere Dinge meines Entwicklerlebens.";
+GlobalMetadata["Description"] = "Richter-Notizen";
+GlobalMetadata["Title"] = "Richter-Notizen";
+GlobalMetadata["Image"] = "../images/title.jpg";
+InitialMetadata["Image"] = "../images/title.jpg";
+Settings.LinkHideExtensions = false;
