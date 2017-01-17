@@ -3,7 +3,7 @@ Published: 2017-01-16
 Image: ../images/blog-title-1.jpg
 ---
 Neues Jahr, neuer Blog. Oder so ähnlich.
-Es war jedenfalls mal wieder Zeit für etwas Neues. Nachdem ich im Mai 2016 von WordPress [auf eine Eigenentwicklung umstieg](/n-develop-reworked.html), war es nun mal wieder an der Zeit etwas neues auszuprobieren.
+Es war jedenfalls mal wieder Zeit für etwas Neues. Nachdem ich im Mai 2016 von WordPress [auf eine Eigenentwicklung umstieg](/posts/n-develop-reworked.html), war es nun mal wieder an der Zeit etwas neues auszuprobieren.
 
 ## n-Develop wird Richter-Notizen
 
