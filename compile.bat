@@ -1,0 +1,1 @@
+wyam.exe --recipe Blog --theme CleanBlog -p -w
