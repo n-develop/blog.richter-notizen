@@ -30,7 +30,7 @@ oder im Zug.
 </div>
 
 Wie der Name schon vermuten lösst, geht es bei **.NET Rocks!** primär um Entwicklungsthemen aus dem Microsoft-Umfeld. Kein Wunder,
-dass er zu meinen Lieblingspodcasts gehört.
+dass er zu meinen Lieblingspodcasts gehört. :smile:
 
 Aber es gibt noch viele weitere Gründe den Podcast zu hören. So beginnt jede Episode, nach einer netten Begrüßung,
 mit der "Better know a Framework"-Section. In diesem Teil der Show stellt Carl etwas vor. Egal ob Framework, Gadget, Blogpost,

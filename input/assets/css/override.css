@@ -12,3 +12,63 @@
 blockquote > p {
   margin: 0;
 }
+
+#content p img {
+    max-width: 100%;
+}
+
+/* Alerts */
+.alert {
+    margin-left: 10px;
+}
+.alert-success:before {
+    position: relative;
+    top: 1px;
+    float: left;
+    margin-right: 8px;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\e125";
+}
+.alert-info:before {
+    position: relative;
+    top: 1px;
+    float: left;
+    margin-right: 8px;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\270f";
+}
+.alert-warning:before {
+    position: relative;
+    top: 1px;
+    float: left;
+    margin-right: 8px;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\e107";
+}
+.alert-danger:before {
+    position: relative;
+    top: 1px;
+    float: left;
+    margin-right: 8px;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: normal;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    content: "\e088";
+}
+.alert > p {
+    margin-top: 0px;
+}
