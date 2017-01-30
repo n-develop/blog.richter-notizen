@@ -13,7 +13,7 @@ Welcher Layer für was zuständig ist, sollte jeden Entwickler, zumindest so ung
 Also was tun, wenn ich in dieser 3-Schichten-Architektur Autofac einsetzen will? Jede Schicht hat seine eigenen Komponenten, 
 die dem IoC-Container hinzugfügt werden müssen. Und wie es sich für eine vernünftige 3-Schichten-Architektur gehört, soll jede Schicht nur auf die direkt
 darunter befindliche Schicht zugreifen. Es ist also **keine** akzeptable Lösung, Autofac nur im Presentation-Layer zu referenzieren und dort alle Repositories,
-Services und andere Komponenten aus den anderen beiden Schichten hinzuzufügen. Dies hieße nämlich, dass der Presentation-Layer dirket auf den Data-Access-Layer
+Services und andere Komponenten aus den anderen beiden Schichten hinzuzufügen. Dies hieße nämlich, dass der Presentation-Layer direkt auf den Data-Access-Layer
 zugreifen muss.
 
 ## Let's get started
