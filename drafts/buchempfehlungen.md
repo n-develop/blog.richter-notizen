@@ -55,11 +55,18 @@ Nachdem ich mit TDD und Unit-Testing im Allgemeinen befasst hatte, war es natür
 
 Etwas, was mir an dem Buch und Roy Osherove gut gefällt, ist, dass er ganz klare Meinungen zu Prinzipien und Tools hat.
 
+<div style="clear: both;"></div>
+
 ## Growing Object-Oriented Software Guided by Test
 
 ![](file:///C:\Users\lars.niemann\Documents\GitHub\blog.richter-notizen\input\images\books\goos.png)
 
 Testing, testing, testing. Ja, ich habe dazu eine klare Meinung. :smile:
+Wer sich etwas mehr mit TDD befasst, weiß, dass es nicht nur das eine TDD gibt. Inzwischen unterscheided man zwischen der **Chicago-School of TDD** (oder Classic TDD)
+und der **London-School of TDD**. Begründer der Chicago-School of TDD sind eben die "Klassiker" wie [Ron Jeffries](https://twitter.com/ronjeffries),
+[Uncle Bob](https://twitter.com/unclebobmartin) und natürlich [Kent Beck](https://twitter.com/kentbeck).
+
+<div style="clear: both;"></div>
 
 ## Clean Code
 
@@ -67,11 +74,15 @@ Testing, testing, testing. Ja, ich habe dazu eine klare Meinung. :smile:
 
 Ein Klassiker. Und zwar mit Recht...
 
+<div style="clear: both;"></div>
+
 ## The Clean Coder
 
 ![](file:///C:\Users\lars.niemann\Documents\GitHub\blog.richter-notizen\input\images\books\clean-coder.png)
 
 Fast noch wichtiger als "Clean Code".
+
+<div style="clear: both;"></div>
 
 ## Dependency Injection in .NET
 
@@ -79,11 +90,15 @@ Fast noch wichtiger als "Clean Code".
 
 Dependency Injection ist ein unheimlich wichtiges Prinzip in professioneller Softwareentwicklung. Es macht den Code besser lesbar und besser wartbar...
 
+<div style="clear: both;"></div>
+
 ## Working Effectively with Legacy Code
 
 ![](file:///C:\Users\lars.niemann\Documents\GitHub\blog.richter-notizen\input\images\books\legacy-code.png)
 
 Man hat nicht immer die grüne Wiese.
+
+<div style="clear: both;"></div>
 
 ## Professional Sitecore 8 Development
 
@@ -91,6 +106,8 @@ Man hat nicht immer die grüne Wiese.
 
 Nicht alle Bücher, die ich in den letzten Monaten gekauft habe, haben etwas mit Softwarecraftsmanship, Testing oder Clean Code zu tun. "Professional Sitecore 8
 Development" ist eines der neusten Bücher in meinem Bücherregal.
+
+<div style="clear: both;"></div>
 
 ## The Lucifer Effect - How Good People Turn Evil
 
