@@ -1,7 +1,21 @@
-Settings.Host = "richter-notizen.de";
-GlobalMetadata["Intro"] = "Ein Blog über .NET, Sitecore und einige andere Dinge meines Entwicklerlebens.";
-GlobalMetadata["Description"] = "Richter-Notizen";
-GlobalMetadata["Title"] = "Richter-Notizen";
-GlobalMetadata["MarkdownExtensions"] = "advanced+bootstrap+emojis+smartypants";
-InitialMetadata["Image"] = "../images/title.jpg";
-Settings.LinkHideExtensions = false;
+#n Wyam.Images
+
+Settings[Keys.Host] = "richter-notizen.de";
+Settings["Intro"] = "Ein Blog über .NET, Sitecore und einige andere Dinge meines Entwicklerlebens.";
+Settings["Description"] = "Richter-Notizen";
+Settings["Title"] = "Richter-Notizen";
+Settings["MarkdownExtensions"] = "advanced+bootstrap+emojis+smartypants";
+Settings["Image"] = "../images/title.jpg";
+Settings[Keys.LinkHideExtensions] = false;
+
+Pipelines[BlogPipelines.Resources].Clear();
+Pipelines[BlogPipelines.Resources].Add(
+	CopyFiles("**/*{!.cshtml,!.md,!.jpg,!.jpeg,}")
+);
+
+
+Pipelines.Add("Images",
+	ReadFiles("**/*").Where(x => new[] { ".jpg", ".jpeg" }.Contains(x.Path.Extension)),
+	Image().SetJpegQuality(70),
+  WriteFiles()
+);
