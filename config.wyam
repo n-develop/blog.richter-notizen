@@ -1,4 +1,6 @@
 #n Wyam.Images
+#recipe Blog
+#theme CleanBlog
 
 Settings[Keys.Host] = "richter-notizen.de";
 Settings["Intro"] = "Ein Blog über .NET, Sitecore und einige andere Dinge meines Entwicklerlebens.";
@@ -12,7 +14,6 @@ Pipelines[BlogPipelines.Resources].Clear();
 Pipelines[BlogPipelines.Resources].Add(
 	CopyFiles("**/*{!.cshtml,!.md,!.jpg,!.jpeg,}")
 );
-
 
 Pipelines.Add("Images",
 	ReadFiles("**/*").Where(x => new[] { ".jpg", ".jpeg" }.Contains(x.Path.Extension)),
