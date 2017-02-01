@@ -1,6 +1,6 @@
 Published: 2016-06-05
 Title: Biergarten-Beobachtungen
-Tags: ["Off-Topic"]
+Tags: ["off-topic"]
 Image: ../images/biergarten-beobachtungen/biergarten.jpg
 ---
 Es ist Sonntag. Und ein besonders schöner Sonntag noch dazu. Bei 27 Grad und Sonnenschein sitze ich im besten Biergarten, den ich mit dem Fahrrad in kurzer Zeit erreichen konnte. Das ist ein toller Start in die Elternzeit. Die nächsten 3 Monate darf ich mich voll und ganz um den Nachwuchs kümmern. Das wird super. Allerdings haben meine Schwiegereltern darauf bestanden den Sohnemann heute abend bei sich zu behalten. Ich "feiere" den Start in die Elternzeit also ohne Kind. *Seltsam*. 

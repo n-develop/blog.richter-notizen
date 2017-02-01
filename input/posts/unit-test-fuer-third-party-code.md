@@ -1,6 +1,6 @@
 Title: Warum ich Unit-Tests für Third-Party-Code schreibe
 Published: 2016-05-23
-Tags: ["Unit-Testing", "TDD"]
+Tags: ["unit-testing", "tdd"]
 Image: ../images/blog-title-2.jpg
 ---
 Wer TDD lernt, stellt sich erstaunlich selten die Frage, ob Unit-Tests auch für bestehende Frameworks geschrieben werden sollten. Die meisten denken höchsten einen kurzen Augenblick darüber nach und kommen zu folgender, durchaus verständlicher Antwort.

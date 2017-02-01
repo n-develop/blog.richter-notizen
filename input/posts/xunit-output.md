@@ -1,6 +1,6 @@
 Title: xUnit-Tests und Console.WriteLine
 Published: 2016-03-17
-Tags: ["xUnit", "Unit-Testing"]
+Tags: ["xunit", "unit-testing"]
 Image: ../images/blog-title-6.jpg
 ---
 Wie bereits in meinem letzten Artikel Test-Frameworks im Vergleich beschrieben, 

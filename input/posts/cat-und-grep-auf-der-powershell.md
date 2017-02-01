@@ -1,6 +1,6 @@
 Title: cat und grep auf der PowerShell
 Published: 2016-10-07
-Tags: ["PowerShell"]
+Tags: ["powershell"]
 Image: ../images/blog-title-3.jpg
 ---
 

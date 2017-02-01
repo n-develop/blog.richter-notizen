@@ -1,6 +1,6 @@
 Title: Eigene Sitecore-Pipelines entwickeln
 Published: 2016-06-04
-Tags: ["Sitecore", "Pipelines"]
+Tags: ["sitecore", "pipelines"]
 Image: ../images/blog-title-4.jpg
 ---
 Wer sich mit Sitecore-Entwicklung befasst, kommt nicht drum herum, sich auch mit den Sitecore-Pipelines zu beschäftigen.

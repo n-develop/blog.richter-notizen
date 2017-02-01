@@ -1,6 +1,6 @@
 Title: von zerbrochenen Fenstern und Quellcode
 Published: 2016-08-12
-Tags: ["Clean Code"]
+Tags: ["clean code"]
 Image: ../images/blog-title-1.jpg
 ---
 Fast jeder kennt ein Haus in seinem Ort oder in der direkten Nachbarschaft, das schon eine ganze Weile nicht mehr bewohnt ist. Was haben diese Häuser in den unterschiedlichsten Städten gemeinsam? Zerbrochene Fenster. Aber warum sind all die Fenster zerbrochen. Klare Antwort: Weil sie von Vandalen eingeworfen wurden. Ihr habt sie alle vor Augen. Diese halbstarken Jugendlichen, die keinen Respekt vorm Besitz anderer Leute haben.

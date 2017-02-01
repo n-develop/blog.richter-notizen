@@ -1,7 +1,7 @@
 ﻿Title: Autofac in einer Multi-Project-Solution
 Published: 2017-01-26
 Image: ../images/blog-title-6.jpg
-Tags: [Autofac, MVC, Dependency Injection, CSharp, .NET]
+Tags: [autofac, mvc, dependency injection, csharp, .net]
 ---
 
 Ich halte Dependency Injection (DI) für eines der wichtigsten Prinzipien in der Softwareentwicklung. Handelt es sich um mehr als ein kleines Projekt

@@ -1,6 +1,6 @@
 Published: 2016-09-01
 Title: Code Kata - Bowling Game
-Tags: ["Code Kata", "TDD"]
+Tags: ["code kata", "tdd"]
 Image: ../images/blog-title-2.jpg
 ---
 Der regelmäßige Leser dieses Blogs weiß, dass ich ein großer Fan des Test-Driven Developments bin.

@@ -1,6 +1,6 @@
 Title: Softwareentwickler und das Impostor-Syndrom
 Published: 2016-06-04
-Tags: ["Selbstwahrnehmung"]
+Tags: ["selbstwahrnehmung"]
 Image: ../images/blog-title-7.jpg
 ---
 In einigen vergangenen Blog-Posts habe ich über die Einstellung bzw. die Selbstwahrnehmung einiger Bekannter philosophiert. Meist handelte es sich dabei um Informatiker. Als ich dann vor ein paar Tagen mal wieder [Developer Tea](http://spec.fm/podcasts/developer-tea), einen meiner Lieblingspodcasts hörte, traf das Thema der Episode den Nagel auf den Kopf.

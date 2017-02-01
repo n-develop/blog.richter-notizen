@@ -1,6 +1,6 @@
 Title: Unit-Testing mit Sitecore.Abstractions
 Published: 2017-01-01
-Tags: ["Unit-Testing", "TDD", "Sitecore"]
+Tags: ["unit-testing", "tdd", "sitecore"]
 Image: ../images/blog-title-3.jpg
 ---
 Ganz zu Beginn meiner "Sitecore-Karriere", habe ich ein interessantes Gespräch mit einem Arbeitskollegen zum Thema "Unit-Tests für Sitecore" geführt.

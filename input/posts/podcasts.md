@@ -1,7 +1,7 @@
 ﻿Title: Podcast-Empfehlungen
 Published: 2017-01-18
 Image: ../images/blog-title-9.jpg
-Tags: [Podcast]
+Tags: [podcast]
 ---
 
 ich höre seit einigen Monaten begeistert Podcasts. Da ich jeden Tag von Tostedt nach Hamburg pendele, habe ich täglich knapp 2 Stunden Zeit 
