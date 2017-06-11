@@ -3,4 +3,5 @@
 ![Tt]ools/packages.config
 [Oo]utput/
 nuget.exe
+.vscode/
 *.zip
